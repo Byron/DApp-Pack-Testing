@@ -1,8 +1,10 @@
+This Repo reproduces https://github.com/Byron/gitoxide/issues/1025 despite being on GitHub, and despite having
+received changes that I thought would trigger a new pack to be generated.
+
 # Comunidad Blockchain 
 
 * LinkedIn del Instructor: https://www.linkedin.com/in/joanamengual7/
 
-some changes to hopefully regenerate the pack
 * Perfil de Udemy: https://www.udemy.com/user/joan-amengual-mesquida/
 
 * Cursos de Blockchain: https://joan-amengual.com
