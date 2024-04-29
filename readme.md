@@ -2,6 +2,7 @@
 
 * LinkedIn del Instructor: https://www.linkedin.com/in/joanamengual7/
 
+some changes to hopefully regenerate the pack
 * Perfil de Udemy: https://www.udemy.com/user/joan-amengual-mesquida/
 
 * Cursos de Blockchain: https://joan-amengual.com
